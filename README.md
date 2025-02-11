@@ -4,15 +4,19 @@ A fun and interactive **Rock-Paper-Scissors** game built using **HTML, CSS, and 
 
 ---
 
-## 🚀 Live Demo  
-🔗 [Play the Game](https://rambabupalla.github.io/Rock-Paper-Scissors-Game/)  
-
----
 
 ## 🖼️ Preview  
 ![Game Screenshot](images/Screenshot.png)  
 
 ---
+
+
+## 🚀 Live Demo  
+🔗 [Play the Game](https://rambabupalla.github.io/Rock-Paper-Scissors-Game/)  
+
+---
+
+
 
 ## 📌 Features  
 ✅ Simple and clean UI 🎨  
